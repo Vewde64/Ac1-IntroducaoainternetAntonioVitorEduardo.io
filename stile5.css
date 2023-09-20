@@ -1,0 +1,13 @@
+.div1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.div2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.fundo{
+    background-color: #7e7e7e;
+}
